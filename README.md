@@ -4,7 +4,7 @@ This is a repository written for XTern AI (2023).
 
 For Readers: 
 
-Written work is in the folder under the name "Explanations and Thought Process". I wrote most of my thought process that I had. This includes my thoughts during data visualization and analysis, answers to the written questions and why I chose a specific model (KNN) to create a machine learning model.
+Written work is in the folder under the name "Explanations and Thought Processes". I wrote most of my thought process that I had. This includes my thoughts during data visualization and analysis, answers to the written questions and why I chose a specific model (KNN) to create a machine learning model.
 
 All graphs that I have and reference are in the "Raw Data Visualization and Code" folder. There, I have:
 - My code on a jupyter notebook that created all the graphs.

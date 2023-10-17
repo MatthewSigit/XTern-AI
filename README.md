@@ -1,6 +1,6 @@
 # XTern-AI-Prompt
 
-This is a repository written for the XTern Artificial Intelligence Work Prompt (2023) as part of my application.
+This is a repository written for XTern AI (2023).
 
 For Readers: 
 

@@ -7,9 +7,11 @@ For Readers:
 Written work will be stored in the folder "Work" under the name "Explanations and Thought Process". I wrote most of my thought process that I had. This includes my thoughts during data visualization and analysis, and why I chose a specific model (KNN) to create a machine learning model.
 
 All graphs that I have and reference are in the "Raw Data Visualization and Code" folder. There, I have:
-- My code on a jupyter notebook that created all the graphs
+- My code on a jupyter notebook that created all the graphs.
 - A copy of the data set
 - All pdfs created through the use of the python pandas module
+
+Please note that the jupyter program creates a file in folder "XTern", which was the original name of the folder. Please change it with the folder that you would like to use -- unfortunately, os.path.dirname(__file__) seems to return an error on jupyter. 
 
 The data model that I have created is stored in the folder "ML Model".
 

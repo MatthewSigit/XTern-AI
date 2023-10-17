@@ -2,6 +2,18 @@
 
 This is a repository written for the XTern Artificial Intelligence Work Prompt (2023) as part of my application.
 
+For Readers: 
+
+Written work will be stored in the folder "Work" under the name "Explanations and Thought Process". I wrote most of my thought process that I had. This includes my thoughts during data visualization and analysis, and why I chose a specific model (KNN) to create a machine learning model.
+
+All graphs that I have and reference are in the "Raw Data Visualization and Code" folder. There, I have:
+- My code on a jupyter notebook that created all the graphs
+- A copy of the data set
+- All pdfs created through the use of the python pandas module
+
+The data model that I have created is stored in the folder "ML Model".
+
+
 Hypothetical:
 
 Given the launch of our food truck line, FoodX, we will be running an exciting and interactive promotion on college campuses to attract a massive initial student following.  When placing their order on our fancy new FoodX app they input basic information about their college experience and we predict what they are going to order.  If we don’t get it right they get a 10% discount. While the promotion has done a great job of bringing in business our staff has not been great at guessing orders and are not happy with the combined workload of guessing and cooking.
